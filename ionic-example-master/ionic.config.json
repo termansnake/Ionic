@@ -1,0 +1,10 @@
+{
+  "name": "Curso",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
